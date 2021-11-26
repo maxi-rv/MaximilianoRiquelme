@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Maximiliano Riquelme Vera, a 25 y.o. Argentinian student of Software Engineering at UNS and iOSDeveloper (Trainee) at Globant.
+### Hi there 👋 I'm Maximiliano Riquelme Vera, a 25 y.o. Argentinian, student of ✨Software Engineering✨ at UNS and ✨iOSDeveloper✨ at Globant.
 
 - 🌱 I’m currently learning iOS Development with Swift.
 - 💬 Twitter: @Maxi_RV_Raxor
