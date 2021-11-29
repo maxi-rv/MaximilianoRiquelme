@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Maximiliano Riquelme Vera...
 
-a 25 y.o. 🇦🇷Argentinian/Chilean🇨🇱, student of **Software Engineering** at **UNS**, **iOS Mobile Developer** at **Globant**, and hobbyst **Game Developer**.
+a 25 y.o. 🇦🇷Argentinian/Chilean🇨🇱, student of **Software Engineering** at **UNS**, **iOS Mobile Developer** at **Globant**, and a hobbyst **Unity Game Developer**.
 
 - 🌱 I’m currently learning iOS Development with Swift and XCode.
 - 💬 Twitter: [@Maxi_RV_Raxor](https://twitter.com/maxi_rv_raxor)
